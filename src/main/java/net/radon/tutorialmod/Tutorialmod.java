@@ -16,6 +16,7 @@ public class Tutorialmod
 {
     // Define mod id in a common place for everything to reference
     public static final String MOD_ID = "tutorialmod";
+    // very important comment
     private static final Logger LOGGER = LogUtils.getLogger();
     public Tutorialmod()
     {
